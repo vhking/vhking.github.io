@@ -9,7 +9,7 @@ name: Vidar Heltne
 description: I like programming!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/35337965?v=4
+avatar: https://github.com/vhking.png
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/vhking
   instagram:
   linkedin:
   pinterest:
